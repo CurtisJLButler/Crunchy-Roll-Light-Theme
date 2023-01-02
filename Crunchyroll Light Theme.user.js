@@ -5,7 +5,6 @@
 // @description  Crunchyroll light theme script because there's no official light theme. This is also my first public script.
 // @author       CurtisJLButler
 // @match        https://www.crunchyroll.com/*
-// @icon         data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==
 // @grant        GM_addStyle
 // @run-at       document-start
 // ==/UserScript==
@@ -41,4 +40,3 @@ GM_addStyle(".text--gq6o-.text--is-l--iccTo {color: #000000;}");
 GM_addStyle(".erc-header .header-content {background-color: #ffffff;}");
 GM_addStyle(".erc-header-tile.menu-tile:hover {background-color: #F47521;}");
 GM_addStyle(".erc-header-tile:hover {background-color: #F47521;}");
-
